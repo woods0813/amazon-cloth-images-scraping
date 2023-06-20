@@ -1,6 +1,6 @@
 # amazon-cloth-images-scraping
 
-Uses the requests library and beatufiul soup to process the html code
+Uses the requests library and beautiful soup to process the html code
 from amazon pages and grab clothing images
 
 The idea was to use the images for an object detection dataset, but other
