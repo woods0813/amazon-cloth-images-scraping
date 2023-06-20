@@ -19,3 +19,17 @@ product page
 
 get_images then goes through the product page to find the primary picture of the desired product
 (there are many images on every product page)
+
+Example Images: 
+
+Coats & Jackets
+
+![31i+ceN3z7L _SX342_SY445_](https://github.com/woods0813/amazon-cloth-images-scraping/assets/114941826/f02f5cf5-3c9e-4353-8ad0-96c6e73b312c)
+
+Dresses
+
+![41DrfcbToRL __AC_SX342_SY445_QL70_ML2_](https://github.com/woods0813/amazon-cloth-images-scraping/assets/114941826/57f19dab-e10c-430e-a8b9-da95108930ea)
+
+Tops & Tees
+
+![51+Jtncs5wL_AC_SX342_SY445_](https://github.com/woods0813/amazon-cloth-images-scraping/assets/114941826/ba68403d-2bcb-4a45-bee0-0d4c51df921e)
